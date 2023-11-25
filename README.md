@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaroFIN
+- 👋 Hi, I’m @FiNN
 - 👀 I’m interested in Game Design, Reversing Engineering.
 - 🌱 I’m currently learning C#, C++
 - 💞️ I’m looking to collaborate on ...
