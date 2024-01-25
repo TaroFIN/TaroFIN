@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaroFIN
-- 👀 I’m interested in Game Design, Reversing Engineering.
-- 🌱 I’m currently learning C#, C++
+- 👀 I’m interested in backend.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me a senior engineer.
 
